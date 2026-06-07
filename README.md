@@ -79,7 +79,7 @@ The program re-prompts on every invalid input — no crashes.
 
 ```
 matrix-inverse/
-└── main.py     # All matrix operations + input handling
+└── matrix.py     # All matrix operations + input handling
 ```
 
 ---
