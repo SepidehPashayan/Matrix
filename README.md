@@ -32,7 +32,7 @@ A⁻¹ = (1 / det(A)) × adj(A)
 ### Run
 
 ```bash
-python main.py
+python matrix.py
 ```
 
 ### Example — 3×3 matrix
